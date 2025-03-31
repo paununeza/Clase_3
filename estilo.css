@@ -24,7 +24,7 @@ header{
     color:rgb(20, 0, 39);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
-    background-image: url('./imagenes/cherry-blossom-5-2560×1440.jpg')
+    background-image: url('./imagenes/photo-1494500764479-0c8f2919a3d8.jfif')
 }
 
 header figure img {
@@ -77,4 +77,26 @@ header h2{
     vertical-align: middle;
     margin-left: 1%;
     text-shadow: 0px 0px 20px rgba(0,0,0,0.5)
+}
+
+h3{
+    font-size: 1.4em;
+    margin-top: 20px;
+    color: rgba(17, 126, 115, 0.1)
+}
+
+section{
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+
+}
+
+section hr{
+    border:0;
+    height: 2px;
+    background: #0ebaba;
+    margin: 10px 0;
 }
